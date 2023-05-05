@@ -1,2 +1,2 @@
-# astar_search
+# astar-search
 AStar search Arad to Bucarest
